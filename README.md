@@ -9,11 +9,9 @@ I have graduated as a mechanical engineer for the Federal University of Rio de J
 - I'm currently learning End-to-End Javascript testing, and will soon start studying Typescript.
 - I love to watch and talk about Football, both the one Americans call "Football" and the one pretty much everybody else calls "Football".
 
-<div align="center">
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEFPaiva&show_icons=true&layout=compact&theme=radical)
   ![Carlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosEFPaiva&layout=compact&theme=radical)(https://wakatime.com/@CarlosEFPaiva)
-</div>
 
 <br>
 

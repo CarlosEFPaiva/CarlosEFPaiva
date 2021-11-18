@@ -1,13 +1,13 @@
-### Hey everyone!
+### Hey everyone! 👋
 
 My name is Carlos Eduardo Paiva and I'm studying to become a Full-Stack Web Developer, which is expected to happen by the beginning of February 2022.
-I have graduated as a mechanical engineer for the Federal University of Rio de Janeiro in 2019, and I was also an engineering exchange student at the University of Notre Dame, IN/USA, for one year (2014/2015).
+I have graduated as a mechanical engineer for the Federal University of Rio de Janeiro in 2019, and I was also an engineering exchange student at the University of Notre Dame, IN/USA, for one year (2014/2015). 👨‍🔧
 
 #### Some (fun?) facts about me:
 
-- I'm a challenge (and coffee) driven person. If you show me an interesting and challenging problem, you've ruined my day until I manage to solve it.
-- I'm currently learning End-to-End Javascript testing, and will soon start studying Typescript.
-- I love to watch and talk about Football, both the one Americans call "Football" and the one pretty much everybody else calls "Football".
+- 🏆 I'm a challenge (and coffee) driven person. If you show me an interesting and challenging problem, you've ruined my day until I manage to solve it.
+- 📚 I'm currently learning End-to-End Javascript testing, and will soon start studying Typescript.
+- ⚽ 🏈 I love to watch and talk about Football, both the one Americans call "Football" and the one pretty much everybody else calls "Football".
 
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&count_private=true&hide=stars,issues)
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEFPaiva&show_icons=true&layout=compact)

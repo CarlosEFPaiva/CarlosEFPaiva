@@ -11,7 +11,6 @@ I have graduated as a mechanical engineer for the Federal University of Rio de J
 
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEFPaiva&show_icons=true&layout=compact&theme=radical)
-  ![Carlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosEFPaiva&layout=compact&theme=radical)(https://wakatime.com/@CarlosEFPaiva)
 
 <br>
 

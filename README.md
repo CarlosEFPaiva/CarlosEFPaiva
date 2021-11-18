@@ -9,8 +9,8 @@ I have graduated as a mechanical engineer for the Federal University of Rio de J
 - I'm currently learning End-to-End Javascript testing, and will soon start studying Typescript.
 - I love to watch and talk about Football, both the one Americans call "Football" and the one pretty much everybody else calls "Football".
 
-  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
-  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEFPaiva&show_icons=true&layout=compact&theme=radical)
+  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&count_private=true&hide=stars,issues)
+  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEFPaiva&show_icons=true&layout=compact)
 
 <br>
 
@@ -45,7 +45,7 @@ I have graduated as a mechanical engineer for the Federal University of Rio de J
 
 ## Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-fernandes-paiva-3911a2119//)](https://www.linkedin.com/in/carlos-eduardo-fernandes-paiva-3911a2119//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-fernandes-paiva-3911a2119//)](https://www.linkedin.com/in/carlos-eduardo-fernandes-paiva-3911a2119//)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosedufpaiva@poli.ufrj.br)
 
 </div>

@@ -1,12 +1,12 @@
 ### Hey everyone! 👋
 
-My name is Carlos Eduardo Paiva and I'm studying to become a Full-Stack Web Developer, which is expected to happen by the beginning of February 2022.
+My name is Carlos Eduardo Paiva and I'm a Full-Stack Web Developer working for Mecanizou, a start-up aiming and working towards changing the rigid structure of the Brazilian automotive market.
 I have graduated as a mechanical engineer for the Federal University of Rio de Janeiro in 2019, and I was also an engineering exchange student at the University of Notre Dame, IN/USA, for one year (2014/2015). 👨‍🔧
 
 #### Some (fun?) facts about me:
 
 - 🏆 I'm a challenge (and coffee) driven person. If you show me an interesting and challenging problem, you've ruined my day until I manage to solve it.
-- 📚 I'm currently learning End-to-End Javascript testing, and will soon start studying Typescript.
+- 📚 I love to learn new things, and the oportunity to work with a start-up has proven to be the right way to learn the most I can as fast as I can!
 - ⚽ 🏈 I love to watch and talk about Football, both the one Americans call "Football" and the one pretty much everybody else calls "Football".
 
   ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEFPaiva&show_icons=true&count_private=true&hide=stars,issues)
@@ -32,6 +32,7 @@ I have graduated as a mechanical engineer for the Federal University of Rio de J
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Tools**
 
